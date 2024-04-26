@@ -1,0 +1,7 @@
+17:56:36.779 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+17:56:37.345 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+17:56:37.348 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+17:56:38.115 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+17:56:38.117 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+17:56:38.172 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+17:56:38.172 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********

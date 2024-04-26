@@ -1,0 +1,102 @@
+12:11:31.251 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:11:31.862 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+12:11:31.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - ------------Entering customers details------------
+12:11:34.964 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue.......
+12:11:35.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Confirm message with expected 
+12:11:35.014 [main] ERROR testCases.TC_001_AccountRegistrationTest - *********  Test failed  *****************
+12:11:37.603 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case started *********
+12:11:37.800 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+12:11:38.322 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+12:11:38.323 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+12:11:39.027 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+12:11:39.028 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+12:11:39.100 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+12:11:39.100 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********
+12:12:29.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml"
+12:12:29.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml
+
+12:12:32.637 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Applictions log starts......
+12:12:32.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Starting TC_001_AccountRegistrationTest method **********
+12:12:36.763 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:12:37.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+12:12:37.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - ------------Entering customers details------------
+12:12:40.417 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue.......
+12:12:40.460 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Confirm message with expected 
+12:12:40.461 [main] ERROR testCases.TC_001_AccountRegistrationTest - *********  Test failed  *****************
+12:12:42.974 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case started *********
+12:12:43.036 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+12:12:43.514 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+12:12:43.515 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+12:12:44.258 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+12:12:44.261 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+12:12:44.304 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+12:12:44.305 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********
+12:14:40.245 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml"
+12:14:40.504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml
+
+12:14:43.784 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Applictions log starts......
+12:14:43.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Starting TC_001_AccountRegistrationTest method **********
+12:14:47.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:14:48.518 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+12:14:48.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - ------------Entering customers details------------
+12:14:51.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue.......
+12:14:51.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Confirm message with expected 
+12:14:51.791 [main] ERROR testCases.TC_001_AccountRegistrationTest - *********  Test failed  *****************
+12:14:54.337 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case started *********
+12:14:54.411 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+12:14:55.009 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+12:14:55.012 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+12:14:55.749 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+12:14:55.752 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+12:14:55.792 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+12:14:55.792 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********
+12:17:19.147 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml"
+12:17:19.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml
+
+12:17:22.634 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Applictions log starts......
+12:17:22.635 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Starting TC_001_AccountRegistrationTest method **********
+12:17:26.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:17:27.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+12:17:27.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - ------------Entering customers details------------
+12:17:30.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue.......
+12:17:30.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Confirm message with expected 
+12:17:30.761 [main] ERROR testCases.TC_001_AccountRegistrationTest - *********  Test failed  *****************
+12:17:33.438 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case started *********
+12:17:33.506 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+12:17:34.040 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+12:17:34.042 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+12:17:34.805 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+12:17:34.807 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+12:17:34.856 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+12:17:34.856 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********
+12:18:39.375 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml"
+12:18:39.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml
+
+12:18:42.815 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Applictions log starts......
+12:18:42.815 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Starting TC_001_AccountRegistrationTest method **********
+12:18:46.931 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:18:47.517 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+12:18:47.519 [main] INFO  testCases.TC_001_AccountRegistrationTest - ------------Entering customers details------------
+12:18:50.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue.......
+12:18:50.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Confirm message with expected 
+12:18:50.680 [main] ERROR testCases.TC_001_AccountRegistrationTest - *********  Test failed  *****************
+12:18:53.472 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case started *********
+12:18:53.540 [main] INFO  testCases.TC_002_LoginTest - My Account clicked
+12:18:54.038 [main] INFO  testCases.TC_002_LoginTest - Login clicked
+12:18:54.040 [main] INFO  testCases.TC_002_LoginTest - Entering login details...
+12:18:54.756 [main] INFO  testCases.TC_002_LoginTest - Login button clicked..
+12:18:54.758 [main] INFO  testCases.TC_002_LoginTest - Validating MyAccount Element ..
+12:18:54.800 [main] INFO  testCases.TC_002_LoginTest - MyAccount Element is present..
+12:18:54.800 [main] INFO  testCases.TC_002_LoginTest - ********* Test Login case Fininshedd *********
+12:19:56.803 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml"
+12:19:57.050 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\SeleniumWS\SeleniumDay1\opencart\grouping.xml
+
+12:20:00.078 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Applictions log starts......
+12:20:00.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Starting TC_001_AccountRegistrationTest method **********
+12:20:04.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked MyAccount
+12:20:04.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
